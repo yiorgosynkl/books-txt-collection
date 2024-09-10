@@ -1,7 +1,8 @@
-XXII 
-b 
+BOOK: Zorba the Greek by Nikos Kazantzakis
 
-eneath the poplar trees the paschal dance was at its height. It was led by a tall, 
+CHAPTER XXII 
+
+Beneath the poplar trees the paschal dance was at its height. It was led by a tall, 
 handsome, dark youth of about twenty, whose cheeks were covered with a thick down 
 which had never known a razor. In the opening of his shirt his chest made a splash of 
 dark colour - it was covered with curly hair. His head was thrown back, his feet 

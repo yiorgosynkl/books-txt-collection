@@ -1,15 +1,14 @@
+BOOK: Letters from a Stoic by Seneca
+
 LETTER 5
 
 On the Philosopher’s Mean
-
-A
 
 I commend you and rejoice in the fact that you are persistent in
 your studies, and that, putting all else aside, you make it each day
 your endeavour to become a better man. I do not merely exhort
 you to keep at it; I actually beg you to do so. I warn you, however,
 not to act after the fashion of those who desire to be conspicuous
-
 rather than to improve, by doing things which will rouse com-
 ment as regards your dress or general way of living.
 
@@ -34,7 +33,6 @@ be compelled to imitate us in everything.
 
 The first thing which philosophy undertakes to give is fellow-
 feeling with all men; in other words, sympathy and sociability. We
-
 part company with our promise if we are unlike other men. We
 must see to it that the means by which we wish to draw admiration
 be not absurd and odious. Our motto,[1] as you know, is “Live
@@ -76,6 +74,7 @@ over that which is to come as well as over that which is past. Many
 of our blessings bring bane to us; for memory recalls the tortures
 of fear, while foresight anticipates them. The present alone can
 make no man wretched. Farewell.
+
 Footnotes
 1. i.e., of the Stoic school.
 2. Frag. 25 Fowler.

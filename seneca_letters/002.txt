@@ -1,3 +1,5 @@
+BOOK: Letters from a Stoic by Seneca
+
 LETTER 2
 
 On Discursiveness in Reading
@@ -5,10 +7,8 @@ On Discursiveness in Reading
 Judging by what you write me, and by what I hear, I am forming
 a good opinion regarding your future. You do not run hither and
 thither and distract yourself by changing your abode; for such
-
 restlessness is the sign of a disordered spirit. The primary indica-
 tion, to my thinking, of a well-ordered mind is a man’s ability to
-
 remain in one place and linger in his own company.
 Be careful, however, lest this reading of many authors and
 books of every sort may tend to make you discursive and unsteady.
@@ -53,5 +53,6 @@ he covets his neighbour’s property, and reckons, not his past gains,
 but his hopes of gains to come? Do you ask what is the proper
 limit to wealth? It is, first, to have what is necessary, and, second,
 to have what is enough. Farewell.
+
 Footnotes
 1. Frag. 475 Usener

@@ -1,8 +1,8 @@
+BOOK: Letters from a Stoic by Seneca
+
 LETTER 8
 
 On the Philosopher’s Seclusion
-
-A
 
 “Do you bid me,” you say, “shun the throng, and withdraw from
 men, and be content with my own conscience? Where are the
@@ -26,7 +26,6 @@ in life, when wearied with wandering. I cry out to them: “Avoid
 whatever pleases the throng: avoid the gifts of Chance! Halt before
 every good which Chance brings to you, in a spirit of doubt and
 fear; for it is the dumb animals and fish that are deceived by
-
 tempting hopes. Do you call these things the ‘gifts’ of Fortune?
 They are snares. And any man among you who wishes to live a
 life of safety will avoid, to the utmost of his power, these limed
@@ -71,10 +70,8 @@ is there any reason why you should regard them as sayings of
 Epicurus and not common property? How many poets give forth
 ideas that have been uttered, or may be uttered, by philosophers!
 I need not touch upon the tragedians and our writers of national
-
 drama;[7] for these last are also somewhat serious, and stand half-
 way between comedy and tragedy. What a quantity of sagacious
-
 verses lie buried in the mime! How many of Publilius’s lines
 are worthy of being spoken by buskin-clad actors, as well as by
 wearers of the slipper![8]
@@ -89,9 +86,9 @@ and concisely:
 What Chance has made yours is not really yours.[10]
 And a third, spoken by you still more happily, shall not be omitted:
 The good that could be given, can be removed.[11]
-
 I shall not charge this up to the expense account, because I have
 given it to you from your own stock. Farewell.
+
 Footnotes
 1. As contrasted with the general Stoic doctrine of taking part in the
 world’s work.

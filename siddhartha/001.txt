@@ -1,8 +1,5 @@
-1
-Book: Siddhartha By Herman Hesse
-An Indian Tale 
+BOOK: Siddhartha By Herman Hesse (An Indian Tale)
 
-2
 FIRST PART
 To Romain Rolland, my dear friend 
 

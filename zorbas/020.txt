@@ -1,7 +1,8 @@
-XX 
-A 
+BOOK: Zorba the Greek by Nikos Kazantzakis
 
-; soon as we arrived, we went to bed. Zorba rubbed his hands together in satisfaction. 
+CHAPTER XX
+
+As soon as we arrived, we went to bed. Zorba rubbed his hands together in satisfaction. 
 'This has been a good day, boss. I suppose you'll ask me what I mean by "good"? I 
 mean full. Just think: this morning we were miles away at the monastery, settling the 
 Abbot's hash - he must have cursed us! Afterwards we came down here to our hut, 

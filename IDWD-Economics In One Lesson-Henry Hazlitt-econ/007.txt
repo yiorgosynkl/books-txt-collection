@@ -1,0 +1,435 @@
+Economics in One Lesson 
+By Henry Hazlitt
+
+Chapter 7 
+
+The Curse of Machinery 
+
+1 
+
+Among the most viable of all economic delusions is the belief that 
+machines on net balance create unemployment. Destroyed a 
+thousand times, it has risen a thousand times out of its own ashes as 
+hardy and vigorous as ever. Whenever there is long-continued mass 
+unemployment, machines get the blame anew. This fallacy is still the 
+basis of many labor union practices. The public tolerates these prac- 
+tices because it either believes at bottom that the unions are right, or 
+is too confused to see just why they are wrong. 
+
+The belief that machines cause unemployment, when held with 
+any logical consistency, leads to preposterous conclusions. Not only 
+must we be causing unemployment with every technological improve- 
+ment we make today, but primitive man must have started causing it 
+with the first efforts he made to save himself from needless toil and 
+sweat. 
+
+To go no further back, let us turn to Adam Smith’s The Wealth of 
+Nations, published in 1776. The first chapter of this remarkable book is 
+called “Of the Division of Labor,” and on the second page of this first 
+chapter the author tells us that a workman unacquainted with the use of 
+machinery employed in pin making “could scarce make one pin a day, 
+and certainly could not make twenty,” but that with the use of this 
+
+
+33 
+
+
+
+34 Economics in One Lesson 
+
+
+machinery he can make 4,800 pins a day. So already, alas, in Adam 
+Smith’s time, machinery had thrown from 240 to 4,800 pin makers out 
+of work for every one it kept. In the pin-making industry there was 
+already, if machines merely throw men out of jobs, 99.98 percent unem- 
+ployment. Could things be blacker? 
+
+Things could be blacker, for the Industrial Revolution was just in 
+its infancy. Let us look at some of the incidents and aspects of that 
+revolution. Let us see, for example, what happened in the stocking 
+industry. New stocking frames as they were introduced were destroyed 
+by the handicraft workmen (over 1,000 in a single riot), houses were 
+burned, the inventors were threatened and obliged to fly for their 
+lives, and order was not finally restored until the military had been 
+called out and the leading rioters had been either transported or 
+hanged. 
+
+Now it is important to bear in mind that insofar as the rioters were 
+thinking of their own immediate or even longer futures their opposi- 
+tion to the machine was rational. For William Felkin, in his History of the 
+Machine-Wrought Hosiery Manufactures (1867), tells us that the larger part of 
+the 50,000 English stocking knitters and their families did not fully 
+emerge from the hunger and misery entailed by the introduction of the 
+machine for the next forty years. But in so far as the rioters believed, 
+as most of them undoubtedly did, that the machine was permanently 
+displacing men, they were mistaken, for before the end of the nine- 
+teenth century the stocking industry was employing at least 100 men 
+for every man it employed at the beginning of the century. 
+
+Arkwright invented his cotton- spinning machinery in 1760. At 
+that time it was estimated that there were in England 5,200 spinners 
+using spinning wheels, and 2,700 weavers — in all, 7,900 persons 
+engaged in the production of cotton textiles. The introduction of 
+Arkwright’s invention was opposed on the ground that it threatened 
+the livelihood of the workers, and the opposition had to be put down 
+by force. Yet in 1787 — twenty-seven years after the invention 
+appeared — a parliamentary inquiry showed that the number of per- 
+sons actually engaged in the spinning and weaving of cotton had 
+risen from 7,900 to 320,000, an increase of 4,400 percent. 
+If the reader will consult such a book as Recent Economic Changes, by 
+David A. Wells, published in 1889, he will find passages that, except for 
+the dates and absolute amounts involved, might have been written by 
+our technophobes (if I may coin a needed word) of today. Let me 
+quote a few: 
+
+During the ten years from 1870 to 1880, inclusive, the 
+British mercantile marine increased its movement, in the 
+matter of foreign entries and clearances alone, to the 
+extent of 22,000,000 tons . . . yet the number of men 
+who were employed in effecting this great movement had 
+decreased in 1880, as compared with 1870, to the extent 
+of about three thousand (2,990 exacdy). What did it? The 
+introduction of steam-hoisting machines and grain eleva- 
+tors upon the wharves and docks, the employment of 
+steam power, etc. . . . 
+
+In 1873 Bessemer steel in England, where its price 
+had not been enhanced by protective duties, com- 
+manded $80 per ton; in 1886 it was profitably manufac- 
+tured and sold in the same country for less than $20 per 
+ton. Within the same time the annual production capac- 
+ity of a Bessemer converter has been increased fourfold, 
+with no increase but rather a diminution of the involved 
+labor. . . . 
+
+The power capacity already being exerted by the 
+steam engines of the world in existence and working in 
+the year 1 887 has been estimated by the Bureau of Statis- 
+tics at Berlin as equivalent to that of 200,000,000 horses, 
+representing approximately 1,000,000,000 men; or at least 
+three times the working population of the earth. 
+
+One would think that this last figure would have caused Mr. Wells to 
+pause, and wonder why there was any employment left in the world of 
+1889 at all; but he merely concluded, with restrained pessimism, that 
+“under such circumstances industrial overproduction . . . may become 
+chronic.” 
+
+
+
+36 Economics in One Lesson 
+
+
+In the depression of 1932, the game of blaming unemployment 
+on the machines started all over again. Within a few months the doc- 
+trines of a group calling themselves the Technocrats had spread 
+through the country like a forest fire. I shall not weary the reader with 
+a recital of the fantastic figures put forward by this group or with cor- 
+rections to show what the real facts were. It is enough to say that the 
+Technocrats returned to the error in all its native purity that machines 
+permanendy displace men — except that, in their ignorance, they pre- 
+sented this error as a new and revolutionary discovery of their own. 
+It was simply one more illustration of Santayana’s aphorism that those 
+who cannot remember the past are condemned to repeat it. 
+
+The Technocrats were finally laughed out of existence; but their 
+doctrine, which preceded them, lingers on. It is reflected in hundreds 
+of make-work rules and feather-bed practices by labor unions; and 
+these rules and practices are tolerated and even approved because of 
+the confusion on this point in the public mind. 
+
+Testifying on behalf of the United States Department of Justice 
+before the Temporary National Economic Committee (better known 
+as the TNEC) in March, 1941, Corwin Edwards cited innumerable 
+examples of such practices. The electrical union in New York City was 
+charged with refusal to install electrical equipment made outside of 
+New York State unless the equipment was disassembled and reassem- 
+bled at the job site. In Houston, Texas, master plumbers and the 
+plumbing union agreed that piping prefabricated for installation 
+would be installed by the union only if the thread were cut off one 
+end of the pipe and new thread were cut at the job site. Various locals 
+of the painters’ union imposed restrictions on the use of spray guns, 
+restrictions in many cases designed merely to make work by requiring 
+the slower process of applying paint with a brush. A local of the 
+teamsters’ union required that every truck entering the New York 
+metropolitan area have a local driver in addition to the driver already 
+employed. In various cities the electrical union required that if any 
+temporary light or power was to be used on a construction job there 
+must be a full-time maintenance electrician, who should not be per- 
+mitted to do any electrical construction work. This rule, according to 
+Mr. Edwards, “often involves the hiring of a man who spends his day 
+reading or playing solitaire and does nothing except throw a switch at 
+the beginning and end of the day.” 
+
+One could go on to cite such make-work practices in many other 
+fields. In the railroad industry, the unions insist that firemen be 
+employed on types of locomotives that do not need them. In the the- 
+aters unions insist on the use of scene shifters even in plays in which 
+no scenery is used. The musicians’ union requires so-called “stand-in” 
+musicians or even whole orchestras to be employed in many cases 
+where only phonograph records are needed. 
+
+2 
+
+One might pile up mountains of figures to show how wrong were 
+the technophobes of the past. But it would do no good unless we 
+understood clearly why they were wrong. For statistics and history are 
+useless in economics unless accompanied by a basic deductive under- 
+standing of the facts — which means in this case an understanding of 
+why the past consequences of the introduction of machinery and 
+other labor-saving devices had to occur. Otherwise the technophobes 
+will assert (as they do in fact assert when you point out to them that 
+the prophecies of their predecessors turned out to be absurd): “That 
+may have been all very well in the past; but today conditions are fun- 
+damentally different; and now we simply cannot afford to develop any 
+more labor-saving machinery.” Mrs. Eleanor Roosevelt, indeed, in a 
+syndicated newspaper column of September 19, 1945, wrote: “We 
+have reached a point today where labor-saving devices are good only 
+when they do not throw the worker out of his job.” 
+
+If it were indeed true that the introduction of labor-saving 
+machinery is a cause of constantly mounting unemployment and mis- 
+ery, the logical conclusions to be drawn would be revolutionary, not 
+only in the technical field but for our whole concept of civili 2 ation. 
+Not only should we have to regard all further technical progress as a 
+calamity; we should have to regard all past technical progress with 
+equal horror. Every day each of us in his own capacity is engaged in 
+trying to reduce the effort it requires to accomplish a given result. 
+
+
+
+38 Economics in One Lesson 
+
+
+Each of us is trying to save his own labor, to economize the means 
+required to achieve his ends. Every employer, small as well as large, 
+seeks constandy to gain his results more economically and effi- 
+ciently — that is, by saving labor. Every intelligent workman tries to cut 
+down the effort necessary to accomplish his assigned job. The most 
+ambitious of us try tirelessly to increase the results we can achieve in 
+a given number of hours. The technophobes, if they were logical and 
+consistent, would have to dismiss all this progress and ingenuity as not 
+only useless but vicious. Why should freight be carried from New 
+York to Chicago by railroads when we could employ enormously 
+more men, for example, to carry it all on their backs? 
+
+Theories as false as this are never held with logical consistency, but 
+they do great harm because they are held at all. Let us, therefore, try 
+to see exactly what happens when technical improvements and labor- 
+saving machinery are introduced. The details will vary in each 
+instance, depending upon the particular conditions that prevail in a 
+given industry or period. But we shall assume an example that involves 
+the main possibilities. 
+
+Suppose a clothing manufacturer learns of a machine that will 
+make men’s and women’s overcoats for half as much labor as previ- 
+ously. He installs the machines and drops half his labor force. 
+
+This looks at first glance like a clear loss of employment. But the 
+machine itself required labor to make it; so here, as one offset, are 
+jobs that would not otherwise have existed. The manufacturer, how- 
+ever, would have adopted the machine only if it had either made bet- 
+ter suits for half as much labor, or had made the same kind of suits 
+at a smaller cost. If we assume the latter, we cannot assume that the 
+amount of labor to make the machines was as great in terms of pay- 
+rolls as the amount of labor that the clothing manufacturer hopes to 
+save in the long run by adopting the machine; otherwise there would 
+have been no economy, and he would not have adopted it. 
+
+So there is still a net loss of employment to be accounted for. But 
+we should at least keep in mind the real possibility that even the first 
+effect of the introduction of labor-saving machinery may be to 
+increase employment on net balance; because it is usually only in the 
+long run that the clothing manufacturer expects to save money by 
+adopting the machine: it may take several years for the machine to 
+“pay for itself.” 
+
+After the machine has produced economies sufficient to offset its 
+cost, the clothing manufacturer has more profits than before. (We 
+shall assume that he merely sells his coats for the same price as his 
+competitors, and makes no effort to undersell them.) At this point, it 
+may seem, labor has suffered a net loss of employment, while it is only 
+the manufacturer, the capitalist, who has gained. But it is precisely out 
+of these extra profits that the subsequent social gains must come. The 
+manufacturer must use these extra profits in at least one of three ways, 
+and possibly he will use part of them in all three: (1) he will use the 
+extra profits to expand his operations by buying more machines to 
+make more coats; or (2) he will invest the extra profits in some other 
+industry; or (3) he will spend the extra profits on increasing his own 
+consumption. Whichever of these three courses he takes, he will 
+increase employment. 
+
+In other words, the manufacturer, as a result of his economies, has 
+profits that he did not have before. Every dollar of the amount he has 
+saved in direct wages to former coat makers, he now has to pay out in 
+indirect wages to the makers of the new machine, or to the workers 
+in another capital industry, or to the makers of a new house or motor 
+car for himself, or of jewelry and furs for his wife. In any case (unless 
+he is a poindess hoarder) he gives indirecdy as many jobs as he ceased 
+to give direcdy. 
+
+But the matter does not and cannot rest at this stage. If this enter- 
+prising manufacturer effects great economies as compared with his 
+competitors, either he will begin to expand his operations at their 
+expense, or they will start buying the machines too. Again more work 
+will be given to the makers of the machines. But competition and pro- 
+duction will then also begin to force down the price of overcoats. 
+There will no longer be as great profits for those who adopt the new 
+machines. The rate of profit of the manufacturers using the new 
+machine will begin to drop, while the manufacturers who have still not 
+adopted the machine may now make no profit at all. The savings, in 
+
+
+
+40 Economics in One Lesson 
+
+
+other words, will begin to be passed along to the buyers of over- 
+coats — to the consumers. 
+
+But as overcoats are now cheaper, more people will buy them. This 
+means that, though it takes fewer people to make the same number of 
+overcoats as before, more overcoats are now being made than before. 
+If the demand for overcoats is what economists call “elastic” — that is, 
+if a fall in the price of overcoats causes a larger total amount of 
+money to be spent on overcoats than previously — then more people 
+may be employed even in making overcoats than before the new 
+labor-saving machine was introduced. We have already seen how this 
+actually happened historically with stockings and other textiles. 
+
+But the new employment does not depend on the elasticity of 
+demand for the particular product involved. Suppose that, though the 
+price of overcoats was almost cut in half — from a former price, say, 
+of $50 to a new price of $30 — not a single additional coat was sold. 
+The result would be that while consumers were as well provided with 
+new overcoats as before, each buyer would now have $20 left over that 
+he would not have had left over before. He will therefore spend this 
+$20 for something else, and so provide increased employment in other 
+lines. 
+
+In brief, on net balance, machines, technological improvements, 
+economies and efficiency do not throw men out of work. 
+
+3 
+
+Not all inventions and discoveries, of course, are “labor-saving” 
+machines. Some of them, like precision instruments, like nylon, lucite, 
+plywood, and plastics of all kinds, simply improve the quality of prod- 
+ucts. Others, like the telephone or the airplane, perform operations 
+that direct human labor could not perform at all. Still others bring into 
+existence objects and services, such as X-rays, radios, and synthetic 
+rubber, that would otherwise not even exist. But in the foregoing illus- 
+tration we have taken precisely the kind of machine that has been the 
+special object of modern technophobia. 
+
+It is possible, of course, to push too far the argument that machines 
+do not on net balance throw men out of work. It is sometimes 
+argued, for example, that machines create more jobs than would oth- 
+erwise have existed. Under certain conditions this may be true. They 
+can certainly create enormously more jobs in particular trades. The eigh- 
+teenth-century figures for the textile industries are a case in point. 
+Their modern counterparts are certainly no less striking. In 1910, 
+140,000 persons were employed in the United States in the newly cre- 
+ated automobile industry. In 1920, as the product was improved and 
+its cost reduced, the industry employed 250,000. In 1930, as this prod- 
+uct improvement and cost reduction continued, employment in the 
+industry was 380,000. In 1940 it had risen to 450,000. By 1940, 35,000 
+people were employed in making electric refrigerators, and 60,000 
+were in the radio industry. So it has been in one newly created trade 
+after another, as the invention was improved and the cost reduced. 
+
+There is also an absolute sense in which machines may be said to 
+have enormously increased the number of jobs. The population of 
+the world today is three times as great as in the middle of the eigh- 
+teenth century, before the Industrial Revolution had got well under 
+way. Machines may be said to have given birth to this increased pop- 
+ulation; for without the machines, the world would not have been able 
+to support it. Two out of every three of us, therefore, may be said to 
+owe not only our jobs but our very lives to machines. 
+
+Yet it is a misconception to think of the function or result of 
+machines as primarily one of creating jobs. The real result of the 
+machine is to increase production, to raise the standard of living, to 
+increase economic welfare. It is no trick to employ everybody, even (or 
+especially) in the most primitive economy. Full employment — very full 
+employment; long, weary, back-breaking employment — is characteris- 
+tic of precisely the nations that are most retarded industrially. Where 
+full employment already exists, new machines, inventions, and discov- 
+eries cannot — until there has been time for an increase in popula- 
+tion — bring more employment. They are likely to bring more unem- 
+ployment (but this time I am speaking of voluntary and not involuntary 
+unemployment) because people can now afford to work fewer hours, 
+while children and the overaged no longer need to work. 
+
+
+
+42 Economics in One Lesson 
+
+
+What machines do, to repeat, is to bring an increase in production 
+and an increase in the standard of living. They may do this in either 
+of two ways. They do it by making goods cheaper for consumers (as 
+in our illustration of the overcoats), or they do it by increasing wages 
+because they increase the productivity of the workers. In other words, 
+they either increase money wages or, by reducing prices, they increase 
+the goods and services that the same money wages will buy. Some- 
+times they do both. What actually happens will depend in large part 
+upon the monetary policy pursued in a country. But in any case, 
+machines, inventions, and discoveries increase real wages. 
+
+4 
+
+A warning is necessary before we leave this subject. It was precisely 
+the great merit of the classical economists that they looked for sec- 
+ondary consequences, that they were concerned with the effects of a 
+given economic policy or development in the long run and on the 
+whole community. But it was also their defect that, in taking the long 
+view and the broad view, they sometimes neglected to take also the 
+short view and the narrow view. They were too often inclined to min- 
+imize or to forget altogether the immediate effects of developments 
+on special groups. We have seen, for example, that the English stock- 
+ing knitters suffered real tragedies as a result of the introduction of 
+the new stocking frames, one of the earliest inventions of the Indus- 
+trial Revolution. 
+
+But such facts and their modern counterparts have led some writ- 
+ers to the opposite extreme of looking only at the immediate effects on 
+certain groups. Joe Smith is thrown out of a job by the introduction 
+of some new machine. “Keep your eye on |oe Smith,” these writers 
+insist. “Never lose track of Joe Smith.” But what they then proceed to 
+do is to keep their eyes only on Joe Smith, and to forget Tom Jones, 
+who has just got a new job in making the new machine, and Ted 
+Brown, who has just got a job operating one, and Daisy Miller, who 
+can now buy a coat for half what it used to cost her. And because they 
+think only of Joe Smith, they end by advocating reactionary and non- 
+sensical policies. 
+
+Yes, we should keep at least one eye on Joe Smith. He has been 
+thrown out of a job by the new machine. Perhaps he can soon get 
+another job, even a better one. But perhaps, also, he has devoted many 
+years of his life to acquiring and improving a special skill for which the 
+market no longer has any use. He has lost this investment in himself, in 
+his old skill, just as his former employer, perhaps, has lost his investment 
+in old machines or processes suddenly rendered obsolete. He was a 
+skilled workman, and paid as a skilled workman. Now he has become 
+overnight an unskilled workman again, and can hope, for the present, 
+only for the wages of an unskilled workman, because the one skill he had 
+is no longer needed. We cannot and must not forget Joe Smith. His is 
+one of the personal tragedies that, as we shall see, are incident to nearly 
+all industrial and economic progress. 
+
+To ask precisely what course we should follow with Joe Smith — 
+whether we should let him make his own adjustment, give him sepa- 
+ration pay or unemployment compensation, put him on relief, or train 
+him at government expense for a new job — would carry us beyond 
+the point that we are here trying to illustrate. The central lesson is that 
+we should try to see all the main consequences of any economic pol- 
+icy or development — the immediate effects on special groups, and the 
+long-run effects on all groups. 
+
+If we have devoted considerable space to this issue, it is because 
+our conclusions regarding the effects of new machinery, inventions 
+and discoveries on employment, production and welfare are crucial. If 
+we are wrong about these, there are few things in economics about 
+which we are likely to be right. 
+
